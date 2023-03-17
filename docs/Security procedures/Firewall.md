@@ -1,0 +1,3 @@
+# <u>**Firewall configuration**</u>
+
+The firewall of the organisation's network will be initially set up as very restricted. All ports that are not needed for the organisation will be blocked, this will reduce the possibility of an attacker abusing an open port to gain access. When a port is needed for a piece of software or something similar, a request will need to be made to the IT technicians and research will need to be conducted to see if any vulnerabilities can be abused by opening that specific port. If a port is opened then it will need to be added to a database along with the software it is for. This will allow the firewall configuration to be easily changed in the future.
