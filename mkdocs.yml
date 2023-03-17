@@ -1,9 +1,10 @@
 site_name: Unit 20 Assignment 1
+site_url: https://unit-20-assignment-1-wiki-web.pages.dev/
 
 theme:
   name: material
 
-repo_url: https://github.com/CharlieS-432737/Unit-20-Assignment-1-Wiki/
+repo_url: https://github.com/CharlieS-432737/Unit-20-Assignment-1-Wiki-Web
 repo_name: Unit 20 Assignment 1 Wiki
 
 markdown_extensions:
