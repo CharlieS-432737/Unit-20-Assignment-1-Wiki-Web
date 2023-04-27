@@ -12,11 +12,11 @@ Drive imaging will be handed by [easeus todo backup](https://www.easeus.com/back
 
 ## Network monitoring
 
-[fing](https://www.fing.com/) will be used to monitor the network. Fing is able to monitor network speeds, scan for devices on the network, block or pause the internet connection to specific device and much more.
+[Fing](https://www.fing.com/) will be used to monitor the network. Fing is able to monitor network speeds, scan for devices on the network, block or pause the internet connection to specific device and much more.
 
 ## Device monitoring
 
-Device monitoring will be handled by [Netdata](https://www.netdata.cloud/). Netdata can log all sorts of information about a machine. It can send alerts when problems occur.
+Device monitoring will be handled by [Netdata](https://www.netdata.cloud/). Netdata can log all sorts of information about a machine and it can send alerts when problems occur allowing issues to be resolved quickly.
 
 ## Remote access
 

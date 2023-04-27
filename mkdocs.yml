@@ -12,6 +12,7 @@ markdown_extensions:
 
 nav:
   - Introduction: "index.md"
+  - Justification: "Justification.md"
   - The tools used: "Tools.md"
   - Types of systems: "Types of systems.md"
   - Faults:
