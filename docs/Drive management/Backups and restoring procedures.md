@@ -9,3 +9,7 @@ A 3 2 1 backups strategy consists of:
 3. A remote off-site backup (uploaded to the cloud)
 
 If a restore need to be done then the backups can be accessed. The most recent backup should be used to restore the machine.
+
+## The importance of backups
+
+Backups are essential because they provide a safeguard for critical information in case of unexpected events such as hardware failure, cyber attacks, or natural disasters. Losing important data can have serious consequences, including financial losses, reputational damage, and even loss of life. Creating backups on a regular basis ensures that data is protected and can be recovered in case of any unfortunate events. Therefore,backups are crucial for minimizing the risk of losing valuable data.
